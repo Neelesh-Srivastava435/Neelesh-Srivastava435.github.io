@@ -1,11 +1,10 @@
-GitHub Pages Submission
-Roll Number: 2026201031
+2026201031_htcs.txt
+
 Name: Neelesh Srivastava
+Roll Number: 2026201031
 
-1. Personal GitHub.io page:
-https://YOUR-GITHUB-USERNAME.github.io/
+GitHub.io Page:
+https://neelesh-srivastava435.github.io/
 
-2. Beautified SSD course page:
-https://YOUR-GITHUB-USERNAME.github.io/ssdcoursepage.html
-
-Replace YOUR-GITHUB-USERNAME with your actual GitHub username before submission.
+SSD Course Page:
+https://neelesh-srivastava435.github.io/ssdcoursepage.html
